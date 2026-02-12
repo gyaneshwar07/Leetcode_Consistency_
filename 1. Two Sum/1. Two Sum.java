@@ -8,16 +8,16 @@
 
 class Solution {
     public int[] twoSum(int[] arr, int target) {
+        HashMap<Integer,Integer> map = new HashMap<>();
         int n = arr.length;
-        Arrays.sort(arr);
-        int  i=0;
-        int j=n-1;
-        while(i<j){
-            int sum = arr[i]+arr[j];
-            if(sum==target) return new int[] {i,j};
-            else if(sum < target) i++;
-            else j--;
+        for(int i=0;i<n;i++){
+            int req = target-arr[i];
+            if(map.containsKey(req)){
+                int val = map.get(req);
+                return new int[] {i,val};
+            }
+            else map.put(arr[i],i);
         }
-        return new int[] {};
+        return new int[] {} ;
     }
 }
