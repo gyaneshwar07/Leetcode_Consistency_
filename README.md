@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 11
-- **Easy:** 3 🟢
+- **Total Problems Solved:** 12
+- **Easy:** 4 🟢
 - **Medium:** 8 🟡
 - **Hard:** 0 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | java | 2026-02-12 |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | java | 2026-02-12 |
+| [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | 🟢 Easy | java | 2026-02-16 |
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | java | 2026-02-12 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-02-16 |
 | [3Sum](https://leetcode.com/problems/3sum/description/) | 🟡 Medium | java | 2026-02-12 |
