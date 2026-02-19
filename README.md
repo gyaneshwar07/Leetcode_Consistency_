@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 19
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 20
+- **Easy:** 10 🟢
 - **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1923157894/) | 🟢 Easy | java | 2026-02-18 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | 🟢 Easy | java | 2026-02-16 |
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | java | 2026-02-12 |
+| [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 🟢 Easy | java | 2026-02-19 |
 | [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | 🟢 Easy | java | 2026-02-16 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 🟢 Easy | java | 2026-02-18 |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | 🟢 Easy | java | 2026-02-19 |
