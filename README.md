@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 7 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 8 🟢
 - **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | java | 2026-02-12 |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | java | 2026-02-12 |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | 🟢 Easy | java | 2026-02-19 |
 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1923157894/) | 🟢 Easy | java | 2026-02-18 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | 🟢 Easy | java | 2026-02-16 |
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | java | 2026-02-12 |
