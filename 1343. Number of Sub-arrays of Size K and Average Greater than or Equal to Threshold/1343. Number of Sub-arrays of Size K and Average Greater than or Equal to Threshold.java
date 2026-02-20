@@ -1,7 +1,7 @@
 /*
  * Problem: 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/1924971991/
+ * Link: https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
  * Language: java
  * Date: 2026-02-20
  */
