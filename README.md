@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 21
+- **Total Problems Solved:** 22
 - **Easy:** 10 🟢
-- **Medium:** 11 🟡
+- **Medium:** 12 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | 🟢 Easy | java | 2026-02-16 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 🟢 Easy | java | 2026-02-18 |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | 🟢 Easy | java | 2026-02-19 |
+| [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/1924971991/) | 🟡 Medium | java | 2026-02-20 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1924441688/) | 🟡 Medium | java | 2026-02-19 |
 | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | 🟡 Medium | java | 2026-02-16 |
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-02-16 |
