@@ -1,9 +1,9 @@
 /*
  * Problem: 1394. Find Lucky Integer in an Array
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1923157894/
+ * Link: https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1927288894/
  * Language: java
- * Date: 2026-02-18
+ * Date: 2026-02-22
  */
 
 class Solution {
