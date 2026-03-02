@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 33
-- **Easy:** 16 🟢
+- **Total Problems Solved:** 34
+- **Easy:** 17 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | java | 2026-02-12 |
 | [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/description/) | 🟢 Easy | java | 2026-02-22 |
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 🟢 Easy | java | 2026-02-19 |
+| [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 🟢 Easy | java | 2026-03-02 |
 | [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | 🟢 Easy | java | 2026-02-16 |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | 🟢 Easy | java | 2026-02-21 |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 Easy | java | 2026-02-21 |
