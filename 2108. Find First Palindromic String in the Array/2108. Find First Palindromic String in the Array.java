@@ -3,7 +3,7 @@
  * Difficulty: Easy
  * Link: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
  * Language: java
- * Date: 2026-02-19
+ * Date: 2026-03-02
  */
 
 class Solution {
