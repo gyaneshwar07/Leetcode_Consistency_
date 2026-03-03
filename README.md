@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 34
-- **Easy:** 17 🟢
+- **Total Problems Solved:** 35
+- **Easy:** 18 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 🟢 Easy | java | 2026-02-19 |
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 🟢 Easy | java | 2026-03-02 |
 | [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/) | 🟢 Easy | java | 2026-02-16 |
+| [2600. K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/) | 🟢 Easy | java | 2026-03-03 |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | 🟢 Easy | java | 2026-02-21 |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 Easy | java | 2026-02-21 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 🟢 Easy | java | 2026-02-18 |
