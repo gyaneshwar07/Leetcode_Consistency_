@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 35
-- **Easy:** 18 🟢
+- **Total Problems Solved:** 36
+- **Easy:** 19 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -29,6 +29,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 Easy | java | 2026-02-21 |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | 🟢 Easy | java | 2026-02-18 |
 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1930454593/) | 🟢 Easy | java | 2026-02-25 |
+| [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | 🟢 Easy | java | 2026-03-17 |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | 🟢 Easy | java | 2026-02-19 |
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | 🟢 Easy | java | 2026-02-22 |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | 🟡 Medium | java | 2026-02-24 |
