@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 37
-- **Easy:** 20 🟢
+- **Total Problems Solved:** 38
+- **Easy:** 21 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | java | 2026-02-12 |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | 🟢 Easy | java | 2026-02-12 |
+| [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/) | 🟢 Easy | java | 2026-03-31 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | 🟢 Easy | java | 2026-02-19 |
 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1923157894/) | 🟢 Easy | java | 2026-02-18 |
 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1927288894/) | 🟢 Easy | java | 2026-02-22 |
