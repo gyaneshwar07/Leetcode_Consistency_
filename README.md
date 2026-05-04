@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 39
-- **Easy:** 22 🟢
+- **Total Problems Solved:** 40
+- **Easy:** 23 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1930454593/) | 🟢 Easy | java | 2026-02-25 |
 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | 🟢 Easy | java | 2026-03-17 |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | 🟢 Easy | java | 2026-02-19 |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | 🟢 Easy | java | 2026-05-04 |
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | 🟢 Easy | java | 2026-02-22 |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | 🟡 Medium | java | 2026-02-24 |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/1924971991/) | 🟡 Medium | java | 2026-02-20 |
