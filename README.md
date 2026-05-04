@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
-- **Easy:** 23 🟢
+- **Total Problems Solved:** 41
+- **Easy:** 24 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1923157894/) | 🟢 Easy | java | 2026-02-18 |
 | [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1927288894/) | 🟢 Easy | java | 2026-02-22 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | 🟢 Easy | java | 2026-02-16 |
+| [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | 🟢 Easy | java | 2026-05-04 |
 | [1886. Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | 🟢 Easy | java | 2026-02-12 |
 | [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/description/) | 🟢 Easy | java | 2026-02-22 |
 | [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | 🟢 Easy | java | 2026-02-19 |
