@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 44
-- **Easy:** 26 🟢
+- **Total Problems Solved:** 45
+- **Easy:** 27 🟢
 - **Medium:** 18 🟡
 - **Hard:** 0 🔴
 
@@ -38,6 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | 🟢 Easy | java | 2026-02-19 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | 🟢 Easy | java | 2026-05-04 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/description/) | 🟢 Easy | java | 2026-05-05 |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | java | 2026-05-05 |
 | [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) | 🟢 Easy | java | 2026-02-22 |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | 🟡 Medium | java | 2026-02-24 |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/1924971991/) | 🟡 Medium | java | 2026-02-20 |
