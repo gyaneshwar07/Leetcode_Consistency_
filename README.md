@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 45
+- **Total Problems Solved:** 46
 - **Easy:** 27 🟢
-- **Medium:** 18 🟡
+- **Medium:** 19 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -56,6 +56,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1921015173/) | 🟡 Medium | java | 2026-02-16 |
 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | 🟡 Medium | java | 2026-02-16 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | 🟡 Medium | java | 2026-02-12 |
+| [78. Subsets](https://leetcode.com/problems/subsets/description/) | 🟡 Medium | java | 2026-05-06 |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | 🟡 Medium | java | 2026-05-05 |
 | [Unknown Problem](https://leetcode.com/problems/sort-colors/submissions/1916943038/) | 🟡 Medium | java | 2026-02-12 |
 
