@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 46
+- **Total Problems Solved:** 47
 - **Easy:** 27 🟢
-- **Medium:** 19 🟡
+- **Medium:** 20 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -49,6 +49,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | 🟡 Medium | java | 2026-02-16 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | 🟡 Medium | java | 2026-02-27 |
 | [3Sum](https://leetcode.com/problems/3sum/description/) | 🟡 Medium | java | 2026-02-12 |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | java | 2026-05-06 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | 🟡 Medium | java | 2026-02-12 |
 | [4Sum](https://leetcode.com/problems/4sum/description/) | 🟡 Medium | java | 2026-02-12 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-02-17 |
