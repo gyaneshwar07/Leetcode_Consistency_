@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Easy:** 27 🟢
-- **Medium:** 20 🟡
+- **Medium:** 21 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -52,6 +52,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [46. Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | java | 2026-05-06 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | 🟡 Medium | java | 2026-02-12 |
 | [4Sum](https://leetcode.com/problems/4sum/description/) | 🟡 Medium | java | 2026-02-12 |
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | 🟡 Medium | java | 2026-05-10 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | java | 2026-02-17 |
 | [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | 🟡 Medium | java | 2026-02-26 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1921015173/) | 🟡 Medium | java | 2026-02-16 |
